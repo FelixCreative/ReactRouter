@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1001,
+        "name": "DAVID SMITH",
+        "position": "Front-end Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur.",
+        "img": "assets/img/team/team-01.png"
+    },
+    {
+        "id": 1002,
+        "name": "ERIC PETERSON",
+        "position": "Product Designer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur.",
+        "img": "assets/img/team/team-02.png"
+    },
+    {
+        "id": 1003,
+        "name": "DURWIN BABB",
+        "position": "Lead Designer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur.",
+        "img": "assets/img/team/team-03.png"
+    },
+    {
+        "id": 1004,
+        "name": "MARIJN OTTE",
+        "position": "Lead Designer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur.",
+        "img": "assets/img/team/team-04.png"
+    }
+]
